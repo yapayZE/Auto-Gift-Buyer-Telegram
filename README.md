@@ -1,6 +1,6 @@
 # 🎁 Telegram User Bot для авто-покупки подарков
 
-Продаю **User Bot** для автоматической покупки Telegram-подарков (Telegram Premium, стикеры, эмодзи и др.).
+Продаю **User Bot** для автоматической покупки Telegram-подарков.
 
 📦 **Включено:**
 - Помощь с установкой
@@ -19,7 +19,7 @@
 
 # 🎁 Telegram User Bot for Auto-Buying Gifts
 
-I'm selling a **Telegram User Bot** that automatically buys gifts like Telegram Premium, stickers, emoji packs, and more.
+I'm selling a **Telegram User Bot** that automatically buys gifts.
 
 📦 **Includes:**
 - Installation support
@@ -31,3 +31,10 @@ Because last time, **Telegram Bot API went down**, and normal bots couldn't buy 
 **Only the User Bot worked and successfully completed all purchases.** It's a much more reliable solution in such cases.
 
 📬 Telegram: [@vityooook](https://t.me/vityooook)
+
+
+
+#️⃣ Tags
+
+`telegram-gift-auto-bot`  `telegram-gift-bot`  `telegram-premium-bot`  `telegram-userbot`  `telegram-auto-buyer`  
+`auto-gift-sender`  `telethon-bot`  `tg-bot`  `telegram-api`  `gift-automation`  `telegram-tools`
